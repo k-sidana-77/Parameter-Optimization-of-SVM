@@ -1,0 +1,11 @@
+Sample #,Best Accuracy,Best SVM Parameters
+S1,96.73,"{'kernel': np.str_('rbf'), 'C': 9.942}"
+S2,96.18,"{'kernel': np.str_('rbf'), 'C': 9.664}"
+S3,96.27,"{'kernel': np.str_('rbf'), 'C': 9.679}"
+S4,96.15,"{'kernel': np.str_('rbf'), 'C': 9.942}"
+S5,95.88,"{'kernel': np.str_('rbf'), 'C': 9.932}"
+S6,96.1,"{'kernel': np.str_('rbf'), 'C': 9.77}"
+S7,95.75,"{'kernel': np.str_('rbf'), 'C': 9.784}"
+S8,96.43,"{'kernel': np.str_('rbf'), 'C': 8.759}"
+S9,96.5,"{'kernel': np.str_('rbf'), 'C': 9.562}"
+S10,96.27,"{'kernel': np.str_('rbf'), 'C': 9.471}"
